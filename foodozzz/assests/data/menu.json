@@ -1,0 +1,282 @@
+[
+  {
+    "restaurantId": "R001",
+    "menu": [
+      {"itemId": "R001_M1", "name": "Mutton Korma", "price": 350, "category": "Main Course"},
+      {"itemId": "R001_M2", "name": "Seekh Kebab", "price": 220, "category": "Starter"},
+      {"itemId": "R001_M3", "name": "Chicken Biryani", "price": 280, "category": "Main Course"}
+    ]
+  },
+  {
+    "restaurantId": "R002",
+    "menu": [
+      {"itemId": "R002_M1", "name": "Dal Bukhara", "price": 450, "category": "Main Course"},
+      {"itemId": "R002_M2", "name": "Butter Naan", "price": 70, "category": "Bread"},
+      {"itemId": "R002_M3", "name": "Tandoori Chicken", "price": 380, "category": "Starter"}
+    ]
+  },
+  {
+    "restaurantId": "R003",
+    "menu": [
+      {"itemId": "R003_M1", "name": "Raj Kachori", "price": 120, "category": "Snack"},
+      {"itemId": "R003_M2", "name": "Chole Bhature", "price": 180, "category": "Main Course"},
+      {"itemId": "R003_M3", "name": "Rasgulla", "price": 80, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R004",
+    "menu": [
+      {"itemId": "R004_M1", "name": "Masala Dosa", "price": 150, "category": "Main Course"},
+      {"itemId": "R004_M2", "name": "Idli Sambar", "price": 120, "category": "Breakfast"},
+      {"itemId": "R004_M3", "name": "Filter Coffee", "price": 60, "category": "Beverage"}
+    ]
+  },
+  {
+    "restaurantId": "R005",
+    "menu": [
+      {"itemId": "R005_M1", "name": "Berry Pulao", "price": 260, "category": "Main Course"},
+      {"itemId": "R005_M2", "name": "Keema Pav", "price": 200, "category": "Snack"},
+      {"itemId": "R005_M3", "name": "Irani Chai", "price": 50, "category": "Beverage"}
+    ]
+  },
+  {
+    "restaurantId": "R006",
+    "menu": [
+      {"itemId": "R006_M1", "name": "Pasta Alfredo", "price": 300, "category": "Main Course"},
+      {"itemId": "R006_M2", "name": "Pizza Margherita", "price": 350, "category": "Main Course"},
+      {"itemId": "R006_M3", "name": "Tiramisu", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R007",
+    "menu": [
+      {"itemId": "R007_M1", "name": "Butter Chicken", "price": 320, "category": "Main Course"},
+      {"itemId": "R007_M2", "name": "Paneer Tikka", "price": 220, "category": "Starter"},
+      {"itemId": "R007_M3", "name": "Chicken Tikka Roll", "price": 180, "category": "Street Food"}
+    ]
+  },
+  {
+    "restaurantId": "R008",
+    "menu": [
+      {"itemId": "R008_M1", "name": "Butter Chicken", "price": 320, "category": "Main Course"},
+      {"itemId": "R008_M2", "name": "Tandoori Roti", "price": 40, "category": "Bread"},
+      {"itemId": "R008_M3", "name": "Paneer Lababdar", "price": 280, "category": "Main Course"}
+    ]
+  },
+  {
+    "restaurantId": "R009",
+    "menu": [
+      {"itemId": "R009_M1", "name": "Avocado Chaat", "price": 350, "category": "Starter"},
+      {"itemId": "R009_M2", "name": "Lamb Curry", "price": 500, "category": "Main Course"},
+      {"itemId": "R009_M3", "name": "Caramel Kulfi", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R010",
+    "menu": [
+      {"itemId": "R010_M1", "name": "Brownie", "price": 150, "category": "Dessert"},
+      {"itemId": "R010_M2", "name": "Red Velvet Pastry", "price": 180, "category": "Dessert"},
+      {"itemId": "R010_M3", "name": "Cheesecake", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R011",
+    "menu": [
+      {"itemId": "R001_M1", "name": "Mutton Korma", "price": 350, "category": "Main Course"},
+      {"itemId": "R001_M2", "name": "Seekh Kebab", "price": 220, "category": "Starter"},
+      {"itemId": "R001_M3", "name": "Chicken Biryani", "price": 280, "category": "Main Course"}
+    ]
+  },
+  {
+    "restaurantId": "R012",
+    "menu": [
+      {"itemId": "R002_M1", "name": "Dal Bukhara", "price": 450, "category": "Main Course"},
+      {"itemId": "R002_M2", "name": "Butter Naan", "price": 70, "category": "Bread"},
+      {"itemId": "R002_M3", "name": "Tandoori Chicken", "price": 380, "category": "Starter"}
+    ]
+  },
+  {
+    "restaurantId": "R013",
+    "menu": [
+      {"itemId": "R003_M1", "name": "Raj Kachori", "price": 120, "category": "Snack"},
+      {"itemId": "R003_M2", "name": "Chole Bhature", "price": 180, "category": "Main Course"},
+      {"itemId": "R003_M3", "name": "Rasgulla", "price": 80, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R014",
+    "menu": [
+      {"itemId": "R004_M1", "name": "Masala Dosa", "price": 150, "category": "Main Course"},
+      {"itemId": "R004_M2", "name": "Idli Sambar", "price": 120, "category": "Breakfast"},
+      {"itemId": "R004_M3", "name": "Filter Coffee", "price": 60, "category": "Beverage"}
+    ]
+  },
+  {
+    "restaurantId": "R015",
+    "menu": [
+      {"itemId": "R005_M1", "name": "Berry Pulao", "price": 260, "category": "Main Course"},
+      {"itemId": "R005_M2", "name": "Keema Pav", "price": 200, "category": "Snack"},
+      {"itemId": "R005_M3", "name": "Irani Chai", "price": 50, "category": "Beverage"}
+    ]
+  },
+  {
+    "restaurantId": "R016",
+    "menu": [
+      {"itemId": "R006_M1", "name": "Pasta Alfredo", "price": 300, "category": "Main Course"},
+      {"itemId": "R006_M2", "name": "Pizza Margherita", "price": 350, "category": "Main Course"},
+      {"itemId": "R006_M3", "name": "Tiramisu", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R017",
+    "menu": [
+      {"itemId": "R007_M1", "name": "Butter Chicken", "price": 320, "category": "Main Course"},
+      {"itemId": "R007_M2", "name": "Paneer Tikka", "price": 220, "category": "Starter"},
+      {"itemId": "R007_M3", "name": "Chicken Tikka Roll", "price": 180, "category": "Street Food"}
+    ]
+  },
+  {
+    "restaurantId": "R018",
+    "menu": [
+      {"itemId": "R008_M1", "name": "Butter Chicken", "price": 320, "category": "Main Course"},
+      {"itemId": "R008_M2", "name": "Tandoori Roti", "price": 40, "category": "Bread"},
+      {"itemId": "R008_M3", "name": "Paneer Lababdar", "price": 280, "category": "Main Course"}
+    ]
+  },
+  {
+    "restaurantId": "R019",
+    "menu": [
+      {"itemId": "R009_M1", "name": "Avocado Chaat", "price": 350, "category": "Starter"},
+      {"itemId": "R009_M2", "name": "Lamb Curry", "price": 500, "category": "Main Course"},
+      {"itemId": "R009_M3", "name": "Caramel Kulfi", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R020",
+    "menu": [
+      {"itemId": "R010_M1", "name": "Brownie", "price": 150, "category": "Dessert"},
+      {"itemId": "R010_M2", "name": "Red Velvet Pastry", "price": 180, "category": "Dessert"},
+      {"itemId": "R010_M3", "name": "Cheesecake", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R021",
+    "menu": [
+      {"itemId": "R001_M1", "name": "Mutton Korma", "price": 350, "category": "Main Course"},
+      {"itemId": "R001_M2", "name": "Seekh Kebab", "price": 220, "category": "Starter"},
+      {"itemId": "R001_M3", "name": "Chicken Biryani", "price": 280, "category": "Main Course"}
+    ]
+  },
+  {
+    "restaurantId": "R022",
+    "menu": [
+      {"itemId": "R002_M1", "name": "Dal Bukhara", "price": 450, "category": "Main Course"},
+      {"itemId": "R002_M2", "name": "Butter Naan", "price": 70, "category": "Bread"},
+      {"itemId": "R002_M3", "name": "Tandoori Chicken", "price": 380, "category": "Starter"}
+    ]
+  },
+  {
+    "restaurantId": "R023",
+    "menu": [
+      {"itemId": "R003_M1", "name": "Raj Kachori", "price": 120, "category": "Snack"},
+      {"itemId": "R003_M2", "name": "Chole Bhature", "price": 180, "category": "Main Course"},
+      {"itemId": "R003_M3", "name": "Rasgulla", "price": 80, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R024",
+    "menu": [
+      {"itemId": "R004_M1", "name": "Masala Dosa", "price": 150, "category": "Main Course"},
+      {"itemId": "R004_M2", "name": "Idli Sambar", "price": 120, "category": "Breakfast"},
+      {"itemId": "R004_M3", "name": "Filter Coffee", "price": 60, "category": "Beverage"}
+    ]
+  },
+  {
+    "restaurantId": "R025",
+    "menu": [
+      {"itemId": "R005_M1", "name": "Berry Pulao", "price": 260, "category": "Main Course"},
+      {"itemId": "R005_M2", "name": "Keema Pav", "price": 200, "category": "Snack"},
+      {"itemId": "R005_M3", "name": "Irani Chai", "price": 50, "category": "Beverage"}
+    ]
+  },
+  {
+    "restaurantId": "R026",
+    "menu": [
+      {"itemId": "R006_M1", "name": "Pasta Alfredo", "price": 300, "category": "Main Course"},
+      {"itemId": "R006_M2", "name": "Pizza Margherita", "price": 350, "category": "Main Course"},
+      {"itemId": "R006_M3", "name": "Tiramisu", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R027",
+    "menu": [
+      {"itemId": "R007_M1", "name": "Butter Chicken", "price": 320, "category": "Main Course"},
+      {"itemId": "R007_M2", "name": "Paneer Tikka", "price": 220, "category": "Starter"},
+      {"itemId": "R007_M3", "name": "Chicken Tikka Roll", "price": 180, "category": "Street Food"}
+    ]
+  },
+  {
+    "restaurantId": "R028",
+    "menu": [
+      {"itemId": "R008_M1", "name": "Butter Chicken", "price": 320, "category": "Main Course"},
+      {"itemId": "R008_M2", "name": "Tandoori Roti", "price": 40, "category": "Bread"},
+      {"itemId": "R008_M3", "name": "Paneer Lababdar", "price": 280, "category": "Main Course"}
+    ]
+  },
+  {
+    "restaurantId": "R029",
+    "menu": [
+      {"itemId": "R009_M1", "name": "Avocado Chaat", "price": 350, "category": "Starter"},
+      {"itemId": "R009_M2", "name": "Lamb Curry", "price": 500, "category": "Main Course"},
+      {"itemId": "R009_M3", "name": "Caramel Kulfi", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R030",
+    "menu": [
+      {"itemId": "R010_M1", "name": "Brownie", "price": 150, "category": "Dessert"},
+      {"itemId": "R010_M2", "name": "Red Velvet Pastry", "price": 180, "category": "Dessert"},
+      {"itemId": "R010_M3", "name": "Cheesecake", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R031",
+    "menu": [
+      {"itemId": "R010_M1", "name": "Brownie", "price": 150, "category": "Dessert"},
+      {"itemId": "R010_M2", "name": "Red Velvet Pastry", "price": 180, "category": "Dessert"},
+      {"itemId": "R010_M3", "name": "Cheesecake", "price": 200, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R032",
+    "menu": [
+      {"itemId": "R001_M1", "name": "Mutton Korma", "price": 350, "category": "Main Course"},
+      {"itemId": "R001_M2", "name": "Seekh Kebab", "price": 220, "category": "Starter"},
+      {"itemId": "R001_M3", "name": "Chicken Biryani", "price": 280, "category": "Main Course"}
+    ]
+  },
+  {
+    "restaurantId": "R033",
+    "menu": [
+      {"itemId": "R002_M1", "name": "Dal Bukhara", "price": 450, "category": "Main Course"},
+      {"itemId": "R002_M2", "name": "Butter Naan", "price": 70, "category": "Bread"},
+      {"itemId": "R002_M3", "name": "Tandoori Chicken", "price": 380, "category": "Starter"}
+    ]
+  },
+  {
+    "restaurantId": "R034",
+    "menu": [
+      {"itemId": "R003_M1", "name": "Raj Kachori", "price": 120, "category": "Snack"},
+      {"itemId": "R003_M2", "name": "Chole Bhature", "price": 180, "category": "Main Course"},
+      {"itemId": "R003_M3", "name": "Rasgulla", "price": 80, "category": "Dessert"}
+    ]
+  },
+  {
+    "restaurantId": "R035",
+    "menu": [
+      {"itemId": "R004_M1", "name": "Masala Dosa", "price": 150, "category": "Main Course"},
+      {"itemId": "R004_M2", "name": "Idli Sambar", "price": 120, "category": "Breakfast"},
+      {"itemId": "R004_M3", "name": "Filter Coffee", "price": 60, "category": "Beverage"}
+    ]
+  }
+]

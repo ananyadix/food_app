@@ -1,0 +1,1 @@
+const carousol=['assests/images/c1.png','assests/images/c2.png','assests/images/c3.png','assests/images/c4.png'];
