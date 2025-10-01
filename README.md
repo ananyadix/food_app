@@ -27,4 +27,18 @@ A Flutter application for browsing restaurant menus, adding items to a cart, and
 ## 📸 Screenshots
 | Home Screen | Menu Screen | Cart Screen |
 |-------------|-------------|-------------|
-| ![Home](screenshots/home.jpg) | ![Menu](screenshots/menu.jpg) | ![Cart](screenshots/cart.jpg) |
+| ![Home](screenshots/home.jpg) | ![Menu](screenshots/menu.jpg) | ![Cart](screenshots/cart.jpg) |  
+
+---
+
+## 📥 Download APK
+
+You can download the latest version of **Foodozzz** and try it on your Android device:
+
+[Download Foodozzz APK](https://github.com/ananyadix/food_app//releases/download/v1.0.0/Foodozzz.apk)
+
+> ⚠️ Make sure to allow installation from unknown sources on your device to install this APK.  
+
+---
+
+
